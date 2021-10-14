@@ -1,5 +1,5 @@
 **Hello from Recife, PE. Web Developer at MELHOR COMUNICAÇÃO** 
-Currently learning ReactJS 🤖
+Currently working with  HTML, CSS, Bootstrap, PHP, JavaScript, Wordpress, and ReactJS.🤖
 
 **About me**
 

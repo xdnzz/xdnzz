@@ -13,7 +13,10 @@
     <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=%2367E480&size=15&center=true&vCenter=true&lines=See+you+in+Gantz+👾;" alt="Welcome to Gantz"/>
   </a>
 </div>
-
+  
+<a href="https://github.com/xdnzz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdnzz&layout=compact&langs_count=8&theme=dracula"/>
+</a>
 
 
 </div>

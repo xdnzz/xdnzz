@@ -1,1 +1,1 @@
-Software Developer at [@Impar][https://impar.com.br]
+Software Developer at [@Impar](https://impar.com.br)
